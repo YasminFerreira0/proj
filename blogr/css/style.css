@@ -202,3 +202,32 @@
     font-weight: bold;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container_designed{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.designed-conteint{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 15%;
+}
+
