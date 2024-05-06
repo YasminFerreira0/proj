@@ -1,0 +1,9 @@
+Node
+Node - ambiente de interpretação do JavaScript fora do navegador.
+
+
+Arquitetura do Node.js: entenda o loop de eventos
+
+Event emitters eEvent Listeners
+	objetos podem ter métodos como instâncias de EventEmitter, que emitem eventos em situações determinadas, normalmente quando acontece algo no programa (por exemplo, uma requisição HTTP). Estes eventos, uma vez emitidos, são “escutados” por event listeners, que por sua vez disparam funções callback relacionadas a cada listener.
+
